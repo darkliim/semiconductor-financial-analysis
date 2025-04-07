@@ -58,7 +58,7 @@ STMicroelectronics affiche un revenu net moyen d’environ 1,6 milliard d’euro
   
 * **La diminution du chiffre d'affaires de STMicroelectronics** a été notamment entraînée par une forte baisse dans le secteur industriel et un ralentissement dans le secteur automobile, en particulier en Europe. Cela contraste avec l'ensemble de l'industrie des semi-conducteurs, où l'automobile est généralement considérée comme un secteur de croissance. Cela suggère que l'exposition spécifique de STMicro à ces segments de marché a sous-performé par rapport aux tendances générales de l'industrie.
 
-[Visualization specific to category 2]
+![Financial Summary](output/images/Assets_STMi.png)
 
 
 ### Capitaux Propres et Structure Financière:
