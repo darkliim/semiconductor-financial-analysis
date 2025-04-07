@@ -46,7 +46,7 @@ STMicroelectronics affiche un revenu net moyen d’environ 1,6 milliard d’euro
   
 * **Bénéfice Par Action (BPA) de base moyen inférieur** : Le BPA de base moyen de 1,73 (période non claire) semble inférieur à une précédente moyenne industrielle de 3,57, suggérant une rentabilité par action potentiellement plus faible pour STMicro.
 
-[Visualization specific to category 1]
+![Financial Summary](Earning_performing .png)
 
 
 ### Category 2:
