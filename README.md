@@ -21,7 +21,8 @@ La base de données principale du projet est composée initialement de six table
 Dans un premier temps, les six tables ont été fusionnées pour former une seule table consolidée regroupant les indicateurs financiers clés. Ensuite, une deuxième série de six tables, cette fois-ci portant sur la santé financière des mêmes entreprises, a également été fusionnée de manière similaire.
 
 Enfin, ces deux tables consolidées ont été jointes ensemble pour créer la base de données finale utilisée dans l’analyse. Cette base complète intègre à la fois les performances financières et les indicateurs de solidité financière pour chaque entreprise, sur une période de 10 ans.
-![Financial Summary](financial_summary.png)
+
+![Financial Summary](output/images/database_schema.png)
 
 # Synthèse du Rapport
 
@@ -29,7 +30,7 @@ Enfin, ces deux tables consolidées ont été jointes ensemble pour créer la ba
 
 STMicroelectronics affiche un revenu net moyen d’environ 1,6 milliard d’euros, ce qui le place juste derrière Melexis et Infineon, confirmant une forte rentabilité. Son bénéfice par action (EPS) est d’environ 3,5, un niveau intermédiaire comparé à Melexis (~5,5) et bien supérieur à celui de Renesas ou SOITEC. En termes d’actifs totaux, l’entreprise dispose d’environ 0,17 milliard d’euros, et ses capitaux propres s’élèvent à près de 0,09 milliard, ce qui représente un bon équilibre entre solidité financière et capacité d’investissement. Sa dette totale reste modérée, participant à une structure financière saine. Comparé à la moyenne sectorielle, STMicroelectronics démontre une performance robuste et équilibrée, à la fois en termes de rentabilité et de structure bilancielle.
 
-![Financial Summary](Overwiew_STMi.png)
+![Financial Summary](output/images/Overwiew_STMi.png)
 
 
 
@@ -44,7 +45,7 @@ STMicroelectronics affiche un revenu net moyen d’environ 1,6 milliard d’euro
   
 * **Bénéfice Par Action (BPA) de base moyen inférieur** : Le BPA de base moyen de 1,73 (période non claire) semble inférieur à une précédente moyenne industrielle de 3,57, suggérant une rentabilité par action potentiellement plus faible pour STMicro.
 
-![Financial Summary](Earning_performing.png)
+![Financial Summary](output/images/Earning_performing.png)
 
 
 ### Les actifs:
@@ -60,7 +61,7 @@ STMicroelectronics affiche un revenu net moyen d’environ 1,6 milliard d’euro
 [Visualization specific to category 2]
 
 
-### Category 3:
+### Capitaux Propres et Structure Financière:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -71,19 +72,6 @@ STMicroelectronics affiche un revenu net moyen d’environ 1,6 milliard d’euro
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
 [Visualization specific to category 3]
-
-
-### Category 4:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 4]
 
 
 
