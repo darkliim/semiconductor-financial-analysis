@@ -11,7 +11,7 @@ Des analyses et recommandations sont fournies sur les domaines clés suivants :
 
 Les scripts Python utilisés pour fusionner plusieurs ensembles de données en une table unique et propre, ainsi que pour extraire des informations pertinentes pour l’analyse, sont disponibles ici [lien].
 
-Un tableau de bord interactif réalisé sur Power BI, permettant de visualiser et d’explorer la performance financière et les comparaisons sectorielles, est accessible ici [lien].
+Un tableau de bord interactif réalisé sur Power BI, permettant de visualiser et d’explorer la performance financière et les comparaisons sectorielles, est accessible ici [Download Power BI Report](scripts/semiconductor_financial_analysis.pbix).
 
 
 # Structure des données & vérifications initiales
