@@ -30,20 +30,21 @@ Enfin, ces deux tables consolidées ont été jointes ensemble pour créer la ba
 ### Aperçu des Résultats
 
 STMicroelectronics affiche un revenu net moyen d’environ 1,6 milliard d’euros, ce qui le place juste derrière Melexis et Infineon, confirmant une forte rentabilité. Son bénéfice par action (EPS) est d’environ 3,5, un niveau intermédiaire comparé à Melexis (~5,5) et bien supérieur à celui de Renesas ou SOITEC. En termes d’actifs totaux, l’entreprise dispose d’environ 0,17 milliard d’euros, et ses capitaux propres s’élèvent à près de 0,09 milliard, ce qui représente un bon équilibre entre solidité financière et capacité d’investissement. Sa dette totale reste modérée, participant à une structure financière saine. Comparé à la moyenne sectorielle, STMicroelectronics démontre une performance robuste et équilibrée, à la fois en termes de rentabilité et de structure bilancielle.
+
 ![Financial Summary](Overwiew_STMi.png)
 
 
 
-# Insights Deep Dive
-### Category 1:
+# Analyse Approfondie des Informations
+### Performance des Revenus:
 
-* **Croissance des revenus en retrait en 2024 : ** Alors que l'industrie a connu une forte croissance en 2024, STMicroelectronics a vu ses revenus annuels chuter de 23,2%, indiquant des défis spécifiques contrairement à l'expansion sectorielle.
+* **Croissance des revenus en retrait en 2024**: Alors que l'industrie a connu une forte croissance en 2024, STMicroelectronics a vu ses revenus annuels chuter de 23,2%, indiquant des défis spécifiques contrairement à l'expansion sectorielle.
   
-* **Pression sur la marge brute : ** La marge brute de STMicro en 2024 (39,3%) et les prévisions en baisse pour le T1 2025 (33,8%) suggèrent des difficultés à maintenir la rentabilité par rapport à l'industrie favorisée par la forte demande (mémoire, IA).
+* **Pression sur la marge brute**: La marge brute de STMicro en 2024 (39,3%) et les prévisions en baisse pour le T1 2025 (33,8%) suggèrent des difficultés à maintenir la rentabilité par rapport à l'industrie favorisée par la forte demande (mémoire, IA).
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Faiblesse dans l'automobile et l'industriel** : La baisse des revenus de STMicro en 2024 est principalement due aux secteurs industriel et automobile, contrastant avec la croissance générale de l'automobile dans l'industrie des semi-conducteurs.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Bénéfice Par Action (BPA) de base moyen inférieur** : Le BPA de base moyen de 1,73 (période non claire) semble inférieur à une précédente moyenne industrielle de 3,57, suggérant une rentabilité par action potentiellement plus faible pour STMicro.
 
 [Visualization specific to category 1]
 
