@@ -11,8 +11,6 @@ Des analyses et recommandations sont fournies sur les domaines clés suivants :
 
 Les scripts Python utilisés pour fusionner plusieurs ensembles de données en une table unique et propre, ainsi que pour extraire des informations pertinentes pour l’analyse, sont disponibles ici [lien].
 
-Le code Python ciblé, répondant à diverses questions commerciales et permettant d’extraire des indicateurs clés à partir des données, est disponible ici [lien].
-
 Un tableau de bord interactif réalisé sur Power BI, permettant de visualiser et d’explorer la performance financière et les comparaisons sectorielles, est accessible ici [lien].
 
 
@@ -46,18 +44,18 @@ STMicroelectronics affiche un revenu net moyen d’environ 1,6 milliard d’euro
   
 * **Bénéfice Par Action (BPA) de base moyen inférieur** : Le BPA de base moyen de 1,73 (période non claire) semble inférieur à une précédente moyenne industrielle de 3,57, suggérant une rentabilité par action potentiellement plus faible pour STMicro.
 
-![Financial Summary](Earning_performing .png)
+![Financial Summary](Earning_performing.png)
 
 
-### Category 2:
+### Les actifs:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **STMicroelectronics a connu une baisse significative de son chiffre d'affaires** de 23,2 % en 2024, atteignant 13,27 milliards de dollars. Cela contraste fortement avec l'ensemble de l'industrie des semi-conducteurs, qui a enregistré une forte croissance de son chiffre d'affaires d'environ 19 % au cours de la même année. Cela indique que STMicro a fait face à des vents contraires spécifiques qui n'ont pas affecté l'ensemble du secteur.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **La marge brute de STMicroelectronics pour l'ensemble de l'année 2024** était de 39,3 %, avec un chiffre de 37,7 % pour le quatrième trimestre 2024. C'est inférieur aux marges brutes rapportées par certains leaders de l'industrie (par exemple, ON Semiconductor à 45,4 % au quatrième trimestre 2024). La marge inférieure suggère des pressions concurrentielles potentielles ou des défis de gestion des coûts pour STMicro par rapport à des pairs plus rentables dans une industrie généralement en expansion.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Le bénéfice net de STMicroelectronics** en 2024 a considérablement diminué de 63 % pour atteindre 1,56 milliard de dollars, ce qui a entraîné un bénéfice par action dilué de 1,73 dollar. Cette baisse significative de la rentabilité contraste avec la croissance globale de l'industrie tirée par des secteurs comme l'IA et la mémoire. Le BPA de 1,73 dollar, bien qu'il ait potentiellement répondu à certaines attentes, représente une baisse considérable d'une année sur l'autre.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **La diminution du chiffre d'affaires de STMicroelectronics** a été notamment entraînée par une forte baisse dans le secteur industriel et un ralentissement dans le secteur automobile, en particulier en Europe. Cela contraste avec l'ensemble de l'industrie des semi-conducteurs, où l'automobile est généralement considérée comme un secteur de croissance. Cela suggère que l'exposition spécifique de STMicro à ces segments de marché a sous-performé par rapport aux tendances générales de l'industrie.
 
 [Visualization specific to category 2]
 
