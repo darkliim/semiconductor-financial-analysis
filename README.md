@@ -9,7 +9,7 @@ Des analyses et recommandations sont fournies sur les domaines clés suivants :
 - **Actifs et Liquidité**: Examen des ratios de liquidité, de la trésorerie et des actifs courants, ainsi que de l'évolution des actifs totaux et des passifs.
 - **Capitaux Propres et Structure Financière:** Évaluation des capitaux propres, du nombre d'actions et de la structure dette/fonds propres pour mesurer la solidité financière de l'entreprise. 
 
-Les scripts Python utilisés pour fusionner plusieurs ensembles de données en une table unique et propre, ainsi que pour extraire des informations pertinentes pour l’analyse, sont disponibles ici [lien].
+Les scripts Python utilisés pour fusionner plusieurs ensembles de données en une table unique et propre, ainsi que pour extraire des informations pertinentes pour l’analyse, sont disponibles ici [View the Jupyter Notebook](scripts/semiconductor_financial_analysis.ipynb).
 
 Un tableau de bord interactif réalisé sur Power BI, permettant de visualiser et d’explorer la performance financière et les comparaisons sectorielles, est accessible ici [Download Power BI Report](scripts/semiconductor_financial_analysis.pbix).
 
