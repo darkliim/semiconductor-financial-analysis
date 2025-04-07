@@ -1,8 +1,3 @@
-Welcome to the sample GitHub ReadME! Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, it's better to have quality over quantity - having 2 stellar business-relevant projects stands out much more than 3+ mediocre projects. Feel free to make a copy of this or fork this repository and make it your own. Happy portfolio-ing :) 
-
-
-
-
 # Project Background
 STMicroelectronics, fondée en 1987, est une entreprise mondiale de semi-conducteurs qui conçoit et fabrique une large gamme de composants électroniques pour les secteurs automobile, industriel et grand public. Elle opère à l’échelle internationale avec un modèle intégré verticalement, assurant un bon contrôle de la production et de la chaîne d’approvisionnement.
 
@@ -28,15 +23,14 @@ La base de données principale du projet est composée initialement de six table
 Dans un premier temps, les six tables ont été fusionnées pour former une seule table consolidée regroupant les indicateurs financiers clés. Ensuite, une deuxième série de six tables, cette fois-ci portant sur la santé financière des mêmes entreprises, a également été fusionnée de manière similaire.
 
 Enfin, ces deux tables consolidées ont été jointes ensemble pour créer la base de données finale utilisée dans l’analyse. Cette base complète intègre à la fois les performances financières et les indicateurs de solidité financière pour chaque entreprise, sur une période de 10 ans.
-
+![Financial Summary](financial_summary.png)
 
 # Synthèse du Rapport
 
 ### Aperçu des Résultats
 
 STMicroelectronics affiche un revenu net moyen d’environ 1,6 milliard d’euros, ce qui le place juste derrière Melexis et Infineon, confirmant une forte rentabilité. Son bénéfice par action (EPS) est d’environ 3,5, un niveau intermédiaire comparé à Melexis (~5,5) et bien supérieur à celui de Renesas ou SOITEC. En termes d’actifs totaux, l’entreprise dispose d’environ 0,17 milliard d’euros, et ses capitaux propres s’élèvent à près de 0,09 milliard, ce qui représente un bon équilibre entre solidité financière et capacité d’investissement. Sa dette totale reste modérée, participant à une structure financière saine. Comparé à la moyenne sectorielle, STMicroelectronics démontre une performance robuste et équilibrée, à la fois en termes de rentabilité et de structure bilancielle.
-
-IMAGE overview(
+![Financial Summary](Overwiew_STMi.png)
 
 
 
